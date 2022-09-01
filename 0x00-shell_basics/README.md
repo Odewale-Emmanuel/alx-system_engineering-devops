@@ -14,3 +14,16 @@
 
 7-movethatfile moves a file from one directory to another
 
+8-firstdelete Delete the file betty
+
+9-firstdirdeletion
+
+10-back
+
+11-lists
+
+12-file_type
+
+13-symbolic_link
+
+14-copy_html
